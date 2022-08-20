@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1660990365,
+      "filename": "lineage-19.1-20220820-UNOFFICIAL-lava.zip",
+      "id": "1792cea4905b9f577d7919ef4779fc35",
+      "romtype": "unofficial",
+      "size": 938518398,
+      "url": "https://github.com/6768Team/releases/releases/download/1.0-lava/lineage-19.1-20220820-UNOFFICIAL-lava.zip",
+      "version": "19.1"
+    }
+  ]
+}
