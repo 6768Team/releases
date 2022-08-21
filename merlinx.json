@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1660891241,
-      "filename": "lineage-19.1-20220819-UNOFFICIAL-merlinx.zip",
-      "id": "b96d84688334f9aee6658ff5daa9c88d",
+      "datetime": 1661097052,
+      "filename": "lineage-19.1-20220821-UNOFFICIAL-merlinx.zip",
+      "id": "67881a56ac4a487c0f2d5dbdaa0ec7e8",
       "romtype": "unofficial",
-      "size": 954561374,
-      "url": " ",
+      "size": 954561694,
+      "url": "https://github.com/6768Team/releases/releases/download/1.1.1/lineage-19.1-20220821-UNOFFICIAL-merlinx.zip",
       "version": "19.1"
     }
   ]
